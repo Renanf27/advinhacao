@@ -23,7 +23,7 @@ int main(void) {
     if (chute > numerosecreto) {
       printf("chuta baixo nengue");
     } else {
-      printf("chuta alto");
+      printf("chuta alto nengue");
     }
   }
 } // invadindo essa porra de codigo de novo
