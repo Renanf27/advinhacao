@@ -19,18 +19,17 @@ int main(void) {
     printf("Parabens, você é o fodão\n");
   } else {
     printf("Q merda, tu é mt ruim\n");
-  // boa
-    if(chute > numerosecreto){
-    printf("chuta baixo nengue");
-  }
-    else{
-      printf("chuta alto nengue");
+    // boa
+    if (chute > numerosecreto) {
+      printf("chuta baixo nengue");
+    } else {
+      printf("chuta alto");
     }
   }
 } // invadindo essa porra de codigo de novo
-/* lembrando:
-== é comparação de igual
-= é atribuição de variavel tipo "int numero = 5"
-e tem o != que é diferente / yes
-vou por um \n
-*/
+  /* lembrando:
+  == é comparação de igual
+  = é atribuição de variavel tipo "int numero = 5"
+  e tem o != que é diferente / yes
+  vou por um \n
+  */
